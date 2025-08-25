@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day3
+namespace Day3.Problem1
 {
     internal class SimplePrinter : IPrinter
     {

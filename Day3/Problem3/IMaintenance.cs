@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day3
+namespace Day3.Problem3
 {
-    internal interface IScanner
+    internal interface IMaintenance : IDevice
     {
-        public void Scan(string doc);
+        void SelfCheck();
     }
 }

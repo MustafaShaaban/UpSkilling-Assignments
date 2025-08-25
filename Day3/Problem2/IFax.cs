@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day3
+namespace Day3.Problem2
 {
-    internal interface IPrinter
+    internal interface IFax
     {
-        public void Print(string doc);
+        void Fax(string doc, string number);
     }
 }
