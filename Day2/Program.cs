@@ -1,4 +1,8 @@
-﻿namespace Day2
+﻿using Day2.Problem1;
+using Day2.Problem2;
+using Day2.Problem3;
+
+namespace Day2
 {
     internal class Program
     {

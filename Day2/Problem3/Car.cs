@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day2
+namespace Day2.Problem3
 {
     internal class Car
     {

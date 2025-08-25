@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day2
+namespace Day2.Problem1
 {
     internal class BankAccount
     {
